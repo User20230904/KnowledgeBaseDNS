@@ -262,8 +262,8 @@ Blocks phishing, spam and malicious domains.
 |----------------|----------------------------------------------------|----------------|
 | DNS, IPv4      | `1.1.1.1` and `1.0.0.1`                            | [Add to AdGuard](adguard:add_dns_server?address=1.1.1.1&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=1.1.1.1&name=) |
 | DNS, IPv6      | `2606:4700:4700::1111` and `2606:4700:4700::1001`  | [Add to AdGuard](adguard:add_dns_server?address=2606:4700:4700::1111&name=), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=2606:4700:4700::1111&name=) |
-| DNS-over-HTTPS, IPv4 | `https://dns.cloudflare.com/dns-query` | [Add to AdGuard](adguard:add_dns_server?address=https://dns.cloudflare.com/dns-query&name=dns.cloudflare.com), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=https://dns.cloudflare.com/dns-query&name=dns.cloudflare.com) |
-| DNS-over-HTTPS, IPv6 | `https://dns.cloudflare.com/dns-query` | [Add to AdGuard](adguard:add_dns_server?address=https://dns.cloudflare.com:53/dns-query&name=dns.cloudflare.com), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=https://dns.cloudflare.com:53/dns-query&name=dns.cloudflare.com) |
+| DNS-over-HTTPS, IPv4 | `https://cloudflare-dns.com/dns-query` | [Add to AdGuard](adguard:add_dns_server?address=https://dns.cloudflare.com/dns-query&name=dns.cloudflare.com), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=https://dns.cloudflare.com/dns-query&name=dns.cloudflare.com) |
+| DNS-over-HTTPS, IPv6 | `https://cloudflare-dns.com/dns-query` | [Add to AdGuard](adguard:add_dns_server?address=https://dns.cloudflare.com:53/dns-query&name=dns.cloudflare.com), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=https://dns.cloudflare.com:53/dns-query&name=dns.cloudflare.com) |
 | DNS-over-TLS | `tls://one.one.one.one` | [Add to AdGuard](adguard:add_dns_server?address=tls://one.one.one.one&name=CloudflareDoT), [Add to AdGuard VPN](adguardvpn:add_dns_server?address=tls://one.one.one.one&name=CloudflareDoT) |
 
 #### Malware blocking only
